@@ -2,7 +2,7 @@
 My first ToDo-List project with Javascript
 
 ## Home Screen
-![Home](./assets/b.png)
+![Home](./assets/aa.png)
 
 ## List added screen
-![Game](./assets/a.png)
+![Added](./assets/bb.png)
