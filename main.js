@@ -27,7 +27,7 @@ function addTodo(){
         newTodo.textContent=inputDom.value;
 
         let removeButton = document.createElement('button');
-        removeButton.textContent = 'Kaldır';
+        removeButton.textContent = 'Remove';
         removeButton.className = 'btn btn-danger btn-sm justify-content-end';
 
         removeButton.addEventListener('click', function() {
